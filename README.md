@@ -3,5 +3,5 @@ Using AWS Lambda
 
 API Gateway + DynamoDB.
 
-Integrate with WebSockets for real-time update 
+Integrated with WebSockets for real-time update 
 
